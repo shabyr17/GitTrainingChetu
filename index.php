@@ -1,6 +1,6 @@
 <?php
 
-// display enabled mods
+// display the php enabled modules and components
 phpinfo();
 
 ?>
