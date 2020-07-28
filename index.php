@@ -2,6 +2,7 @@
 
 // display the php enabled modules and components
 phpinfo();
-//just adding a comment
+echo 'resolve using --theirs';
+
 
 ?>
